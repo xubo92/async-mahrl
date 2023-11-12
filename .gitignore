@@ -1,3 +1,14 @@
+# Specified for this project
+results/
+water_fill_bk.py
+water_fill_bk2.py
+water_fill_bk3.py
+water_fill_cond_bk.py
+*/__pycache__
+.vscode/
+paper_results/
+visuals/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
